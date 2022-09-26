@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.card1 img {
+    width: 300px;
+    height: 400px;
+
+}
+
+.card2 img {
+    width: 300px;
+    height: 400px;
+}
+
+.card3 img {
+    width: 300px;
+    height: 400px;
+}
+
+.botaodolink button a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.card-group .card2 .card3 {
+    flex-direction: unset;
+}
